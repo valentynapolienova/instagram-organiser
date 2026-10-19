@@ -1,0 +1,2 @@
+The guide is now in GUIDE.md. It covers setup, both versions, review steps,
+sorting, interrupted runs, and logout. Start with README.md for a short overview.

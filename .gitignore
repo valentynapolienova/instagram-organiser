@@ -1,0 +1,15 @@
+.venv/
+private-data/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+*-session.json
+*.csv
+*.tsv
+*.xlsx
+*.numbers
+*.log
+/AGENTS.md
+/*-receipt.txt
